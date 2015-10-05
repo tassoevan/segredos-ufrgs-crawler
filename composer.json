@@ -1,0 +1,16 @@
+{
+    "name": "tassoevan/segredos-ufrgs-crawler",
+    "description": "Segredos UFRGS Crawler",
+    "type": "project",
+    "require": {
+        "facebook/php-sdk-v4": "^5.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tasso Evangelista",
+            "email": "tasso@tassoevan.me"
+        }
+    ],
+    "minimum-stability": "stable"
+}
